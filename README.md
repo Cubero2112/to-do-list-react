@@ -5,4 +5,4 @@
 ##### Created with React Hooks.
 
 
-<p align=center><img src="readme-images/TodDoList.PNG" width="fit-content"></p>
+<p align=center><img src="readme-images/ToDoList.PNG" width="fit-content"></p>
